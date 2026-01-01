@@ -1,0 +1,7 @@
+{
+  "name": "Văn sĩ số - Di sản & Sáng tạo",
+  "description": "Trợ lý AI chuyên sâu về Ngữ Văn THCS và bảo tồn Di sản Văn hóa các dân tộc thiểu số: Hỗ trợ giảng dạy, học tập song ngữ, gợi ý dàn ý, nhập vai, và biên tập câu từ.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
